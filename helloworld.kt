@@ -1,6 +1,6 @@
-// this is a comment in Kotlin
+fun main(){
+
+    println("hello?")
 
 
-fun main(args: Array<Strings>) {
-    pintln("Hello, World!")
 }
