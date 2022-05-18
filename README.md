@@ -9,19 +9,19 @@ This is yet another project I created to practice my critical thinking skills an
 
 # Development Environment
 
-The tools that I used to create this program was Kotlin and the IntelliJ IDE. It took a while to get used to the IDE. I have only exclusively used VS Code up until this point. It took a few hours, but I was able to get a hang of things and understand how the IDE handled Source Control. I'm glad I was able to learn a new IDE. I have a lot more confidence moving forward with learning another one if the need arises. One piece of code that I imported uses the "exitProcess" command to stop the program from running.
+The tools that I used to create this program was Kotlin and the IntelliJ IDE. It took a while to get used to the IDE. I have only exclusively used VS Code up until this point. It took a few hours, but I was able to get a hang of things and understand how the IDE handled Source Control. I'm glad I was able to learn a new IDE. I have a lot more confidence moving forward with learning another one if the need arises. One piece of code that I imported uses the "exitProcess" command to stop the program from running:
 
 ``` import kotlin.system.exitProcess ```
 
+Apart from the IDE and Kotlin, these are the only things I used to develop the game.
+
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [ProgrammingIdioms.org](https://programming-idioms.org/idiom/87/stop-program/4789/kotlin)
+* [Kotlinlang.org](https://kotlinlang.org/docs/home.html)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Make the Classes more flexible
-* Item 2
-* Item 3
+* Make it so the User is able to restart the game all over.
+* Fix the "show solutions" function - instead of showing all the answers at once, only show the answer that is relevant to where the user is.
+* Make the code more re-usable. A lot of the code is repeat functions and actions that take up extra space.
