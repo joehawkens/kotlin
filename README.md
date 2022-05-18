@@ -11,7 +11,7 @@ This is yet another project I created to practice my critical thinking skills an
 
 The tools that I used to create this program was Kotlin and the IntelliJ IDE. It took a while to get used to the IDE. I have only exclusively used VS Code up until this point. It took a few hours, but I was able to get a hang of things and understand how the IDE handled Source Control. I'm glad I was able to learn a new IDE. I have a lot more confidence moving forward with learning another one if the need arises. One piece of code that I imported uses the "exitProcess" command to stop the program from running.
 
-``` Kotlin import kotlin.system.exitProcess ```
+``` import kotlin.system.exitProcess ```
 
 # Useful Websites
 
