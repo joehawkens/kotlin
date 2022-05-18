@@ -28,20 +28,41 @@ fun main() {
     // will occur if the variable is tried to be changed.
 
 
-    // Let's attempt to make a class...
+    // Making a class...
 
-    class Question(
+    class Question {
 
-        var points: Int,
-        val question: String,
-        val difficulty: String
+        var question: String = "string"
+        var answer = "string"
+        var choices = arrayOf("string", "string", "string", "string")
 
+    }
 
-    )
 
     // Declaring an object...
+
+    var question1 = Question()
+
+    question1.question = "Who was the first president of the United States?"
+    question1.answer = "George Washington"
+    question1.choices = arrayOf("George Washington", "Barrack Obama", "Joe Biden", "Donald Trump")
+
+    var question2 = Question()
+
+    question2.question = "What is the Earth's largest continent?"
+    question2.answer = "Asia"
+    question2.choices = arrayOf("Asia", "Antarctica", "North America", "Europe")
+
+
+    // Put the questions inside an array...
+
+    var quizQuestions = arrayOf(question1, question2)
+
+
+    // Create a function that prompts the first question...
 
 
 
 
 }
+
