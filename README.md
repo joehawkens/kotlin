@@ -19,6 +19,7 @@ Apart from the IDE and Kotlin, these are the only things I used to develop the g
 
 * [ProgrammingIdioms.org](https://programming-idioms.org/idiom/87/stop-program/4789/kotlin)
 * [Kotlinlang.org](https://kotlinlang.org/docs/home.html)
+* [w3schools.org](www.w3schools.com)
 
 # Future Work
 
